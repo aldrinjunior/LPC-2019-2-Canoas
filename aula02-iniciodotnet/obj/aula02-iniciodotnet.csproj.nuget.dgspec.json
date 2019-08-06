@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/aula02-iniciodotnet.csproj": {}
+  },
+  "projects": {
+    "/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/aula02-iniciodotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/aula02-iniciodotnet.csproj",
+        "projectName": "aula02-iniciodotnet",
+        "projectPath": "/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/aula02-iniciodotnet.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/bin/Debug/netcoreapp2.2/aula02-iniciodotnet.deps.json
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/bin/Debug/netcoreapp2.2/aula02-iniciodotnet.runtimeconfig.json
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/bin/Debug/netcoreapp2.2/aula02-iniciodotnet.runtimeconfig.dev.json
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/bin/Debug/netcoreapp2.2/aula02-iniciodotnet.dll
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/bin/Debug/netcoreapp2.2/aula02-iniciodotnet.pdb
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.csprojAssemblyReference.cache
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.csproj.CoreCompileInputs.cache
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.AssemblyInfoInputs.cache
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.AssemblyInfo.cs
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.dll
+/home/cassio/wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/aula02-iniciodotnet/obj/Debug/netcoreapp2.2/aula02-iniciodotnet.pdb
