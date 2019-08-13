@@ -1,0 +1,11 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/bin/Debug/netcoreapp2.2/Aula03AppHosting.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/bin/Debug/netcoreapp2.2/Aula03AppHosting.runtimeconfig.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/bin/Debug/netcoreapp2.2/Aula03AppHosting.runtimeconfig.dev.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/bin/Debug/netcoreapp2.2/Aula03AppHosting.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/bin/Debug/netcoreapp2.2/Aula03AppHosting.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula03AppHosting/obj/Debug/netcoreapp2.2/Aula03AppHosting.pdb
