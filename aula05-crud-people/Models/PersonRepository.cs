@@ -22,7 +22,7 @@ namespace AppPeople.Models
         
         public Person GetById(int id)
         {
-            return people.Find(x=>x.id == id);
+            return people.Find(i=>i.id == id);
         }
         
         public void Delete(int id)
@@ -30,6 +30,16 @@ namespace AppPeople.Models
             people.Remove(GetById(id));
 
         }
+        public void Update(Person person)
+        {
+            var index  = people.FindIndex(x=>x.id == person.id);
+            people[index].name = person.name;
+            people[index].address = person.address;
+
+        }
+
+
+
 
         
     }

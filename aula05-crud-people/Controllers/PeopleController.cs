@@ -29,6 +29,21 @@ namespace AppPeople.Controllers
             return RedirectToAction("index");
         }
 
+       [HttpGet]
+        public IActionResult Edit( int id)
+        {
+            var per = _repository.GetById(id);
+            return View(per);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Person personAlterado)
+        {
+            _repository.Update(personAlterado);
+
+            return RedirectToAction("index");
+        }
+
 
         public IActionResult Delete(int id)
         {
