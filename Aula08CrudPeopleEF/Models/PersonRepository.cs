@@ -12,11 +12,7 @@ namespace Aula08CrudPeopleEF.Models
             this.context = context;
         }
 
-        public void Create(Person person)
-        {
-            context.People.Add(person);
-            context.SaveChanges();
-        }
+       
         public List<Person> GetAll()
         {
             return context.People.ToList();

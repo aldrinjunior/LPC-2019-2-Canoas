@@ -37,7 +37,9 @@ namespace Aula08CrudPeopleEF
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<DataContext>(
                 x=>x.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddScoped<IPersonRepository,PersonRepository>();
+                
+            services.AddSingleton<IPersonRepository,PersonRepository>();
+
 
         }
 
