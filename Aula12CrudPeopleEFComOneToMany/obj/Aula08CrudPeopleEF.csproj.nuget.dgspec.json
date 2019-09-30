@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {}
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula12CrudPeopleEFComOneToMany/Aula08CrudPeopleEF.csproj": {}
   },
   "projects": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula12CrudPeopleEFComOneToMany/Aula08CrudPeopleEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula12CrudPeopleEFComOneToMany/Aula08CrudPeopleEF.csproj",
         "projectName": "Aula08CrudPeopleEF",
-        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/Aula08CrudPeopleEF.csproj",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula12CrudPeopleEFComOneToMany/Aula08CrudPeopleEF.csproj",
         "packagesPath": "/home/cassio/.nuget/packages/",
-        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula08CrudPeopleEF/obj/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula12CrudPeopleEFComOneToMany/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

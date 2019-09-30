@@ -1,8 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using Aula08CrudPeopleEF.Models;
+using Aula08CrudPeopleEF.Models.Entities;
+using Aula08CrudPeopleEF.Models.Interfaces;
 
-namespace Aula08CrudPeopleEF.Models
+namespace Aula08CrudPeopleEF.Models.Entities
 {
     public class PersonRepository : IPersonRepository
     {
@@ -12,10 +13,9 @@ namespace Aula08CrudPeopleEF.Models
             this.context = context;
         }
 
-       
-        public List<Person> GetAll()
+        public void Create(Person obj)
         {
-            return context.People.ToList();
+            throw new System.NotImplementedException();
         }
 
         public void Delete(int id)
@@ -23,14 +23,17 @@ namespace Aula08CrudPeopleEF.Models
             throw new System.NotImplementedException();
         }
 
-
-
-        public Person GetByID(int id)
+        public List<Person> GetAll()
         {
             throw new System.NotImplementedException();
         }
 
-        public void Update(Person person)
+        public Person GetById(int id)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void Update(Person obj)
         {
             throw new System.NotImplementedException();
         }

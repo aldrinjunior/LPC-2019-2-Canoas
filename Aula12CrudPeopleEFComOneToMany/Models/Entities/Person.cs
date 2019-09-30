@@ -1,17 +1,25 @@
-namespace Aula08CrudPeopleEF.Models
+using Aula12CrudPeopleEFComOneToMany.Models.Entities;
+
+namespace Aula08CrudPeopleEF.Models.Entities
 {
     public class Person
     {
 
         public Person(){}
 
-        public Person(int id, string name, string address, string phone, int age)
+        public Person(int id, 
+                        string name, 
+                        string address, 
+                        string phone, 
+                        int age,
+                        City city)
         {
             this.id = id;
             this.name = name;
             this.address = address;
             this.phone = phone;
             this.age = age;
+            this.city = city;
 
         }
         public int id { get; set; }
@@ -20,6 +28,7 @@ namespace Aula08CrudPeopleEF.Models
 
         public string phone { get; set; }
         public int age { get; set; }
+        public City city { get; set; }
 
     }
 }

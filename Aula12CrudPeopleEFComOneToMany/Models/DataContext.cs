@@ -1,3 +1,5 @@
+using Aula08CrudPeopleEF.Models.Entities;
+using Aula12CrudPeopleEFComOneToMany.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Aula08CrudPeopleEF.Models
@@ -10,5 +12,6 @@ namespace Aula08CrudPeopleEF.Models
         }
 
         public DbSet<Person> People { get; set; }
+        public DbSet<City> Cities { get; set; }
     }
 }

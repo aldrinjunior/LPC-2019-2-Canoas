@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Aula08CrudPeopleEF.Models;
+using Aula08CrudPeopleEF.Models.Interfaces;
+using Aula08CrudPeopleEF.Models.Entities;
 
 namespace Aula08CrudPeopleEF.Controllers
 {

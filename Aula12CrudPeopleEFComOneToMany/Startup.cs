@@ -11,6 +11,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Aula08CrudPeopleEF.Models;
 using Microsoft.EntityFrameworkCore;
+using Aula08CrudPeopleEF.Models.Interfaces;
+using Aula08CrudPeopleEF.Models.Entities;
 
 namespace Aula08CrudPeopleEF
 {
