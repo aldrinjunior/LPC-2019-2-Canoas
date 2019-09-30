@@ -7,14 +7,12 @@ using Microsoft.AspNetCore.Mvc;
 using Aula08CrudPeopleEF.Models;
 using Aula08CrudPeopleEF.Models.Interfaces;
 using Aula08CrudPeopleEF.Models.Entities;
+using Aula12CrudPeopleEFComOneToMany.Models.Entities;
 
 namespace Aula08CrudPeopleEF.Controllers
 {
-
-    
     public class PeopleController : Controller
     {
-
         private IPersonRepository pRepository;
         public PeopleController(IPersonRepository personRepository)
         {
@@ -34,6 +32,7 @@ namespace Aula08CrudPeopleEF.Controllers
         [HttpPost]
         public IActionResult Create(Person person)
         {        
+            person.city = new City(1,"Canoas");
             pRepository.Create(person);    
             return RedirectToAction("Index");
         } 

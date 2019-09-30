@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Aula08CrudPeopleEF.Models.Entities;
 using Aula08CrudPeopleEF.Models.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace Aula08CrudPeopleEF.Models.Entities
 {
@@ -15,7 +16,8 @@ namespace Aula08CrudPeopleEF.Models.Entities
 
         public void Create(Person obj)
         {
-            throw new System.NotImplementedException();
+            context.People.Add(obj);
+            context.SaveChanges();
         }
 
         public void Delete(int id)
@@ -25,7 +27,7 @@ namespace Aula08CrudPeopleEF.Models.Entities
 
         public List<Person> GetAll()
         {
-            throw new System.NotImplementedException();
+            return context.People.Include(x=>x.city).ToList();
         }
 
         public Person GetById(int id)

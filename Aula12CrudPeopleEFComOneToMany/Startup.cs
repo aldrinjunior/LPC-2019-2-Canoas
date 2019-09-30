@@ -34,14 +34,12 @@ namespace Aula08CrudPeopleEF
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-
-
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<DataContext>(
                 x=>x.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
                 
-            services.AddSingleton<IPersonRepository,PersonRepository>();
-
+            services.AddScoped<IPersonRepository,PersonRepository>();
 
         }
 

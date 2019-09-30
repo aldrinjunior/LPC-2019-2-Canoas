@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using Aula08CrudPeopleEF.Models.Entities;
+
 namespace Aula12CrudPeopleEFComOneToMany.Models.Entities
 {
     public class City
@@ -13,5 +16,6 @@ namespace Aula12CrudPeopleEFComOneToMany.Models.Entities
         }
         public int id { get; set; }
         public string name { get; set; }
+        public List<Person> people { get; set; }
     }
 }
