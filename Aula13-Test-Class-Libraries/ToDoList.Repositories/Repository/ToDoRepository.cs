@@ -1,6 +1,7 @@
-using System.Collections.Generic;
+using ToDoList.Domain;
+using ToDoList.Repositories.Interface;
 
-namespace ToDoList.Web.Models
+namespace ToDoList.Repositories.Repository
 {
     public class ToDoRepository : ITodoRepository
     {
@@ -14,7 +15,7 @@ namespace ToDoList.Web.Models
             throw new System.NotImplementedException();
         }
 
-        public List<ToDo> GetAll()
+        public System.Collections.Generic.List<ToDo> GetAll()
         {
             throw new System.NotImplementedException();
         }

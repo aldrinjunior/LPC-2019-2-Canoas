@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 
-namespace ToDoList.Web.Models
+namespace ToDoList.Repositories.Interface
 {
-    public interface IBaseRepository<Entity> 
+   public interface IBaseRepository<Entity> 
         where Entity : class
     {
         void Create(Entity obj);

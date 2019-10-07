@@ -1,8 +1,9 @@
 using Microsoft.EntityFrameworkCore;
+using ToDoList.Domain;
 
-namespace ToDoList.Web.Models
+namespace ToDoList.Repositories.Data
 {
-    public class DataContext : DbContext
+     public class DataContext : DbContext
     {
         public DataContext(DbContextOptions<DataContext> options)
             : base (options)
@@ -10,6 +11,7 @@ namespace ToDoList.Web.Models
         }
 
         public DbSet<ToDo> Todos { get; set; }
+        public DbSet<TypeToDo> TypeTodos { get; set; }
         
     }
 }

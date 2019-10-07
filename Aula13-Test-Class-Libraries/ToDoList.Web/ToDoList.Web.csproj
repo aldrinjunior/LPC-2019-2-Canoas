@@ -12,4 +12,9 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.2.4" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\ToDoList.Repositories\ToDoList.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>
