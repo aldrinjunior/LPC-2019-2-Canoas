@@ -1,0 +1,9 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/bin/Debug/netstandard2.0/TarefasArnaldo.Domain.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/bin/Debug/netstandard2.0/TarefasArnaldo.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/bin/Debug/netstandard2.0/TarefasArnaldo.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/Project-Refactory-Aldrin/TarefasArnaldo.Domain/obj/Debug/netstandard2.0/TarefasArnaldo.Domain.pdb
