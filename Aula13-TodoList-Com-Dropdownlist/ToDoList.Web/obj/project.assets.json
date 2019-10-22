@@ -13388,11 +13388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Web/ToDoList.Web.csproj",
+      "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Web/ToDoList.Web.csproj",
       "projectName": "ToDoList.Web",
-      "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Web/ToDoList.Web.csproj",
+      "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Web/ToDoList.Web.csproj",
       "packagesPath": "/home/cassio/.nuget/packages/",
-      "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Web/obj/",
+      "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -13409,8 +13409,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Repositories/ToDoList.Repositories.csproj": {
-              "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Repositories/ToDoList.Repositories.csproj"
+            "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Repositories/ToDoList.Repositories.csproj": {
+              "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Repositories/ToDoList.Repositories.csproj"
             }
           }
         }

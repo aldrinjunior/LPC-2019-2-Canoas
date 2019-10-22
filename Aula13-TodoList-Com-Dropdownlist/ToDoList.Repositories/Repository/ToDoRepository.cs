@@ -23,7 +23,7 @@ namespace ToDoList.Repositories.Repository
 
         public void Delete(int id)
         {
-            throw new System.NotImplementedException();
+            context.Todos.Remove(GetById(id));
         }
 
         public List<ToDo> GetAll()
@@ -38,7 +38,11 @@ namespace ToDoList.Repositories.Repository
 
         public void Update(ToDo person)
         {
-            throw new System.NotImplementedException();
+            var p = GetById(person.id);
+            p.name = person.name;
+            p.priority = person.priority;
+            p.typeToDo =person.typeToDo;
+            context.SaveChanges();
         }
     }
 }

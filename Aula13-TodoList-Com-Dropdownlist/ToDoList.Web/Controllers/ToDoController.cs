@@ -36,6 +36,22 @@ namespace ToDoList.Web.Controllers
             repositoryToDo.Create(todo);
             return RedirectToAction("Index");
         }
+        
+
+        public IActionResult Edit(int id)
+        {
+            ViewBag.TypesToDos = repositoryType.GetAll();
+            var todo = repositoryToDo.GetById(id);
+            return View(todo);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(ToDo todo)
+        {
+            todo.typeToDo = repositoryType.GetById(todo.typeToDo.id);
+            repositoryToDo.Update(todo);
+            return RedirectToAction("Index");
+        }
 
      
     }

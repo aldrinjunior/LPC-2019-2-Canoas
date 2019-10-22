@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/ToDoList.Domain.csproj": {}
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Domain/ToDoList.Domain.csproj": {}
   },
   "projects": {
-    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/ToDoList.Domain.csproj": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Domain/ToDoList.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/ToDoList.Domain.csproj",
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Domain/ToDoList.Domain.csproj",
         "projectName": "ToDoList.Domain",
-        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/ToDoList.Domain.csproj",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Domain/ToDoList.Domain.csproj",
         "packagesPath": "/home/cassio/.nuget/packages/",
-        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/Aula13-TodoList-Com-Dropdownlist/ToDoList.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
