@@ -1,0 +1,9 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/bin/Debug/netstandard2.0/restaurante.domain.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/bin/Debug/netstandard2.0/restaurante.domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/bin/Debug/netstandard2.0/restaurante.domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/LPC-2019-2-Canoas/ProjetoRestaurantes/restaurante.domain/obj/Debug/netstandard2.0/restaurante.domain.pdb
