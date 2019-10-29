@@ -16,6 +16,7 @@ namespace ToDoList.Domain
         public int priority { get; set; }
 
         public TypeToDo typeToDo { get; set; }
+        public int idTypeTodo { get; set; }
 
     }
 }

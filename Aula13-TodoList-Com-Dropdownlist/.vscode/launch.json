@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ToDoList.Web/bin/Debug/netcoreapp2.2/ToDoList.Web.dll",
+            "program": "${workspaceFolder}/ToDoList.Api/bin/Debug/netcoreapp2.2/ToDoList.Api.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ToDoList.Web",
+            "cwd": "${workspaceFolder}/ToDoList.Api",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
