@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/Proj.Repository.csproj": {}
+  },
+  "projects": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/Proj.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/Proj.Domain.csproj",
+        "projectName": "Proj.Domain",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/Proj.Domain.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/Proj.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/Proj.Repository.csproj",
+        "projectName": "Proj.Repository",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/Proj.Repository.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/Proj.Domain.csproj": {
+                "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ProjetoContaDeLuz/Proj.Domain/Proj.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Tools": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
